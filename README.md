@@ -35,4 +35,4 @@ They may not be copied, modified, distributed, or reused without written permiss
 
 ## Contact
 
-For academic inquiries or permission requests, please contact: **hr367517@ohio.edu**
+For academic inquiries or permission requests, please contact: **hoda.rahmani87@gmail.com**
