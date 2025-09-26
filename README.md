@@ -26,7 +26,7 @@ To view them:
 © 2025 H. Rahmani
 
 All content in this repository is the intellectual property of H. Rahmani.  
-These materials are provided in a private repository for academic review only.  
+These materials are provided for academic review only.  
 They may not be copied, modified, distributed, or reused without written permission.
 
 **No license is granted for commercial use.**
@@ -35,4 +35,4 @@ They may not be copied, modified, distributed, or reused without written permiss
 
 ## Contact
 
-For academic inquiries or permission requests, please contact: **hoda.rahmani87@gmail.com**
+For academic inquiries or permission requests, please contact: **hr367517@ohio.edu**
